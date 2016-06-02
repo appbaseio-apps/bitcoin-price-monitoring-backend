@@ -1,0 +1,6 @@
+{
+  "name": "bitcoin-price-alert-backend",
+  "main": "app.js",
+  "dependencies": {
+  }
+}
