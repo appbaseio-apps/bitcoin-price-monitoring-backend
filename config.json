@@ -2,5 +2,6 @@
  "appname": "your_app_name",
  "username": "app_username",
  "password": "app_password",
- "type": "index_type"
+  "type": "index_type",
+  "sendgridKey": "your_sendgrid_key"
 }
